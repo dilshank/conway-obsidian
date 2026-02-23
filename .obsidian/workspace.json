@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0965dbd55f2032ef",
+        "id": "f2eec1c9ad3b3998",
         "type": "tabs",
         "children": [
           {
-            "id": "1632090c5bbdf157",
+            "id": "e73cd4e908af91ba",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Bconic/Call Recording App/Call Recording Dev Refs.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Call Recording Dev Refs"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Bconic/Call Recording App/Call Recording Dev Refs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Call Recording Dev Refs"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Bconic/Call Recording App/Call Recording Dev Refs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Call Recording Dev Refs"
             }
           },
           {
@@ -131,31 +137,18 @@
             }
           },
           {
-            "id": "3090c0d13874eb2d",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-ghost",
-              "title": "all-properties"
-            }
-          },
-          {
             "id": "806ef649b7d837cd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Bconic/Call Recording App/Call Recording Dev Refs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Call Recording Dev Refs"
             }
           },
           {
@@ -169,11 +162,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 488.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,8 +181,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0b32cbc97b23f13",
+  "active": "e73cd4e908af91ba",
   "lastOpenFiles": [
+    "Vendors to explore.md",
     "Daily Notes/2026-02-23.md",
     "Personal/R/Pasted image 20240823114208.png",
     "Personal/R/Pasted image 20240823114108.png",

@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Except the .gitignore file itself
+!.gitignore
+
+
+!/Conway*

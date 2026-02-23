@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "9ac02931617916ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "588593b48ea8d791",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "RTAI/Sanity.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d89f1e21bef1055",
+    "type": "split",
+    "children": [
+      {
+        "id": "95d8ff1e1644b834",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78b1e71ab3c55a1e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3afd5fc5479765e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "78b9bf8a1038235b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bae1c76789f0c0e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6239bbc72ecf018b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8db8c954efc2857b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "RTAI/Sanity.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "69091a8c609349dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "RTAI/Sanity.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "848a8a492b30ccc7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "635766788a25792e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "RTAI/Sanity.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "588593b48ea8d791",
+  "lastOpenFiles": [
+    "RTAI/RTAI datasets.md",
+    "Untitled 1.md",
+    "RTAI/Learning.md",
+    "RTAI/Chris.md",
+    "RTAI/Asset Wisdom Planning.md",
+    "RTAI/Risk Thinking AI.md",
+    "RTAI/Andrew.md",
+    "RTAI/Onboarding RTAI.md",
+    "Conway/Conway Games.md",
+    "BCONIC SMB/Workflows.md"
+  ]
+}

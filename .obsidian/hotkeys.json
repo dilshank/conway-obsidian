@@ -1,0 +1,11 @@
+{
+  "templater-obsidian:Obsidian Tings/Templates/LinkPaste.md": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "K"
+    }
+  ]
+}
